@@ -1,2 +1,2 @@
 # 365MovieCity
-A website to 
+This is an entertainment website just like Netflix. Checkout Live Demo :
